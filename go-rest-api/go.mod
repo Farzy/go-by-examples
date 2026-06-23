@@ -1,6 +1,7 @@
 module github.com/Farzy/go-by-examples/go-rest-api
 
-go 1.21.0
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
@@ -25,7 +26,7 @@ require (
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
-	go.mongodb.org/mongo-driver v1.11.3 // indirect
+	go.mongodb.org/mongo-driver v1.17.7 // indirect
 	golang.org/x/sys v0.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
